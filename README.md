@@ -30,6 +30,9 @@ Analyzed discount distribution across products.
 Evaluated inventory availability and out-of-stock products.
 Compared product distribution across retail categories.
 Created an interactive dashboard for inventory monitoring and pricing analysis.
+
+<img width="1433" height="805" alt="Screenshot 2026-06-28 110646" src="https://github.com/user-attachments/assets/1e5c0d00-56ce-4598-9944-295eba162afe" />
+
 📚 SQL Concepts Used
 SELECT
 WHERE
@@ -40,6 +43,6 @@ CASE Statements
 Data Exploration
 Business Query Analysis
 
-<img width="1323" height="741" alt="Screenshot 2026-06-27 134655" src="https://github.com/user-attachments/assets/e0d7fe68-c2ac-474b-8ddb-89a1a01be0fc" />
+
 
 
